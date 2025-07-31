@@ -1,6 +1,5 @@
 ## Hi there 👋
-👋 Hello,<br>
-  I'm Ayush Kumar Maurya!<br>
+👋 Hello,   I'm Ayush Kumar Maurya!<br>
 🎓 B.Tech CSE (Data Science) | 💻 Aspiring Data Scientist <br>
 🚀 Passionate about turning data into decisions and building intelligent solutions.<br>
 🔍 I enjoy solving real-world problems with machine learning, data analysis, and Python.<br>
