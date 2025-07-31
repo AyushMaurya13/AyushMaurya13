@@ -10,8 +10,8 @@
        💼 Land a position where I can grow, contribute, and innovate<br>
 
 📫 Let's Connect!<br>
-     🔗 LinkedIn<br>
-     🐦 Twitter/X<br>
+     🔗 [LinkedIn](www.linkedin.com/in/ayush-kumar-maurya-a43914258)<br>
+     🐦 [Twitter/X](https://x.com/ayush_maur10241)<br>
 
 
 
