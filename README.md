@@ -1,17 +1,17 @@
 ## Hi there 👋
-👋 Hello, I'm Ayush Kumar Maurya!
-🎓 B.Tech CSE (Data Science) | 💻 Aspiring Data Scientist 
-🚀 Passionate about turning data into decisions and building intelligent solutions.
-🔍 I enjoy solving real-world problems with machine learning, data analysis, and Python.
+👋 Hello, I'm Ayush Kumar Maurya!<br>
+🎓 B.Tech CSE (Data Science) | 💻 Aspiring Data Scientist <br>
+🚀 Passionate about turning data into decisions and building intelligent solutions.<br>
+🔍 I enjoy solving real-world problems with machine learning, data analysis, and Python.<br>
 
-🎯 Goals
-      ✅ Become job-ready as a Data Analyst in 60 days
-      🔄 Transition to Data Scientist with strong full-stack foundations
-       💼 Land a position where I can grow, contribute, and innovate
+🎯 Goals<br>
+      ✅ Become job-ready as a Data Analyst in 60 days<br>
+      🔄 Transition to Data Scientist with strong full-stack foundations<br>
+       💼 Land a position where I can grow, contribute, and innovate<br>
 
-📫 Let's Connect!
-     🔗 LinkedIn
-     🐦 Twitter/X
+📫 Let's Connect!<br>
+     🔗 LinkedIn<br>
+     🐦 Twitter/X<br>
 
 
 
