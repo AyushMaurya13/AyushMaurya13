@@ -3,12 +3,6 @@
 🎓 B.Tech CSE (Data Science) | 💻 Aspiring Data Scientist <br>
 🚀 Passionate about turning data into decisions and building intelligent solutions.<br>
 🔍 I enjoy solving real-world problems with machine learning, data analysis, and Python.<br>
-
-🎯 Goals<br>
-      ✅ Become job-ready as a Data Analyst in 60 days<br>
-      🔄 Transition to Data Scientist with strong full-stack foundations<br>
-       💼 Land a position where I can grow, contribute, and innovate<br>
-
 📫 Let's Connect!<br>
      🔗 [LinkedIn](www.linkedin.com/in/ayush-kumar-maurya-a43914258)<br>
      🐦 [Twitter/X](https://x.com/ayush_maur10241)<br>
