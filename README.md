@@ -4,7 +4,7 @@
 🚀 Passionate about turning data into decisions and building intelligent solutions.<br>
 🔍 I enjoy solving real-world problems with machine learning, data analysis, and Python.<br>
 📫 Let's Connect!<br>
-     🔗 [LinkedIn](www.linkedin.com/in/ayush-kumar-maurya-a43914258)<br>
+     🔗 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-maurya-a43914258/)<br>
      🐦 [Twitter/X](https://x.com/ayush_maur10241)<br>
 
 
