@@ -1,5 +1,4 @@
-```markdown
-# 👋 Hi, I'm Krish  
+# 👋 Hi, I'm Ayush Kumar Maurya
 
 🎓 **B.Tech in Computer Science (Data Science)** at Meerut Institute of Engineering and Technology  
 💡 Aspiring **Data Scientist** | Passionate about **Data Analytics, Machine Learning, and Problem-Solving**  
@@ -26,7 +25,7 @@
 - Python | MYSQL | Pandas | NumPy | Scikit-learn | TensorFlow | PyTorch  
 
 ### Data Visualization
-- Power BI | Tableau | Matplotlib | Seaborn  
+-  Matplotlib | Seaborn  
 
 ### Machine Learning
 - Supervised Learning | Unsupervised Learning | Reinforcement Learning |Scikit Learn
@@ -47,7 +46,7 @@
 
 ## 📊 GitHub Stats  
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-maurya&show_icons=true&theme=radical)  
+![Ayush 's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-maurya&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-maurya&layout=compact&theme=radical)  
 
 ---
@@ -62,4 +61,4 @@
 ---
 
 ⭐️ From [Ayush Kumar Maurya](https://github.com/krishna-maurya)
-```
+
