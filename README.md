@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-python
+```python
 class DataScientist:
     def __init__(self):
         self.name = "Ayush Kumar Maurya"
@@ -62,19 +62,18 @@ class DataScientist:
 
 me = DataScientist()
 print(me.goals_2025())
-
+```
 
 <details>
 <summary>📊 More About Me (Click to expand)</summary>
 
 - 🔭 **Currently Working On:**
-  - 🛰️ **ChurnGuard** - Machine Learning-based Telecom Churn Prediction System
-  - 🌾 **Crop Yield Prediction** - Predicting agricultural yield using advanced ML models
-  - 🛒 **Avadhesh Kirana Store** - Full-featured online grocery store
+  - 🛰️ **Tesla Autopilot Computer Vision Pipeline** - 
+  - 🌾 **Goldman Sachs Algorithmic Trading Bot** - 
+  - 🛒 **Microsoft Azure Cognitive Services** - 
 
 - 🌱 **Currently Learning:**
   - 📊 Advanced Data Science & Machine Learning Techniques
-  - 🖥️ Full Stack Web Development (MERN Stack)
   - 🧠 Deep Learning & Neural Networks
   - ☁️ Cloud Computing (AWS, Azure)
 
@@ -196,15 +195,14 @@ print(me.goals_2025())
 <tr>
 <td width="50%">
 
-### 🛰️ ChurnGuard - Telecom Analytics
-[![Coming Soon](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)](https://github.com/AyushMaurya13)
-
-**Tech Stack:** `Python` `TensorFlow` `Flask` `SQL`
+### 🎥 Netflix Content Recommendation Engine
+[![GitHub](https://github.com/AyushMaurya13/1_Netflix-Content-Recommendation-Engine) • [Demo](https://6rcuwthpkt3cgf38kmglpy.streamlit.app/)
+**Tech Stack:** `Python` `scikit-learn` `streamlit` `Linear Rigreesion`
 
 🎯 **Features:**
-- Customer churn prediction
-- Risk scoring system
-- Retention strategies
+- Netlix content prediction
+- Include all type of content
+- Easy to find Similarity
 - Dashboard analytics
 
 🚀 **Status:** Under Development
@@ -212,16 +210,15 @@ print(me.goals_2025())
 </td>
 <td width="50%">
 
-### 🛒 Avadhesh Kirana Store
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=web)](https://github.com/AyushMaurya13)
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `Local Storage`
+### 💳 PayPal Fraud Detection System
+[![GitHub](https://github.com/AyushMaurya13/2_PayPal_Fraud_Detection_System) • [Demo](https://f6efrv6uttbd7vpxklzzet.streamlit.app/)
+**Tech Stack:** `XGBoost` `scikit-learn` `Machine Learning`
 
 🎯 **Features:**
-- Full e-commerce functionality
-- Shopping cart system
-- Admin panel
-- Responsive design
+- Full in working situation
+- You can prevent losses
+- Very easy to use
+- Target the scammers
 
 ✨ **Status:** Completed
 
@@ -422,6 +419,10 @@ If you find my projects helpful, consider giving them a ⭐!
 
 **Made with ❤️ by Ayush Kumar Maurya**
 
+*Last Updated: October 2025*
 
+</div>  
+
+---
 
 
